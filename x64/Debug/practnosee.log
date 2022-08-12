@@ -1,0 +1,5 @@
+﻿  practnosee.cpp
+C:\Users\Esteban\source\repos\practnosee\practnosee\practnosee.cpp(116,17): warning C4101: 'count': variable local sin referencia
+C:\Users\Esteban\source\repos\practnosee\practnosee\practnosee.cpp(146,24): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\Esteban\source\repos\practnosee\practnosee\practnosee.cpp(166,24): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+  practnosee.vcxproj -> C:\Users\Esteban\source\repos\practnosee\x64\Debug\practnosee.exe
